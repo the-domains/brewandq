@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[brewandq]]></title>
+        <description><![CDATA[brewandq]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 03:06:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>This is a test for the new Grid beta.  It's a little clunky so far, but it may be my internet connection.  I like the writing template here.  It's clean, no frills.  Just let's you focus on the writing.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/371d16b4e7722b2214dbd6c5fc958239f52f567f.jpg"></article>]]></description>
+            <link>undefinedtest-post/index.html</link>
+            <guid isPermaLink="false">2a847941-3746-4953-a5b1-1ad8a9a0dfe3</guid>
+            <pubDate>Wed, 30 Dec 2015 03:05:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
