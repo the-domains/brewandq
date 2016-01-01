@@ -1,7 +1,7 @@
 name: brewandq
 favicon: null
-layout_spectrum: 0.7612039390951395
-typography_spectrum: 0.41505803912878036
+layout_spectrum: 1
+typography_spectrum: 0.04606
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.4998585651628673
-  lightness: 0.8274957232642919
-  saturation: 0.7568892729468644
-  rhythmicContrast: 0.730279078707099
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
