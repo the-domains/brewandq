@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brew N' Q]]></title>
+        <description><![CDATA[Brew N' Q]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 10:17:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Located at Lèqún 2nd Rd, Zhongshan District, Taipei City, Taiwan 104]]></title>
+            <description><![CDATA[<article><h1>Located at Lèqún 2nd Rd, Zhongshan District, Taipei City, Taiwan 104</h1><p>Ed's Diner:  Authentic American BBQ in Taiwan?  </p></article>]]></description>
+            <link>undefinedlocated-at-lequn-2nd-rd-zhongshan-district-taipei-city-ta/index.html</link>
+            <guid isPermaLink="false">79d14517-35bf-4175-a636-2098d22fa560</guid>
+            <pubDate>Tue, 05 Jan 2016 10:17:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
