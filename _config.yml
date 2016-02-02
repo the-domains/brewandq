@@ -1,7 +1,7 @@
 name: brewandq
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.04606
+layout_spectrum: 0.50111
+typography_spectrum: 0.08375
 title: "Brew N' Q"
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.4998585651628673
+  brandStrength: 0.3125
   lightness: 0.5625
   saturation: 0.5625
   rhythmicContrast: 0.5
