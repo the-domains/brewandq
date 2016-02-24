@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brew N' Q]]></title>
+        <description><![CDATA[Brew N' Q]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 20:55:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test.  This is only a test to see how a new post looks on my site.  So far, I'm not impressed with the usability of thegrid.io  photos take forever to load.  And now it can't find my website, but I'm sure I've </p>]]></description>
+            <link>undefinedfa834ae2-5a85-4651-91b8-2bb0fb8e8467/index.html</link>
+            <guid isPermaLink="false">fa834ae2-5a85-4651-91b8-2bb0fb8e8467</guid>
+            <pubDate>Wed, 24 Feb 2016 20:55:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
